@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+user interfaces <img width="1897" height="812" alt="Screenshot 2026-10-23 110116" src="https://github.com/user-attachments/assets/85e60cc5-34d9-453b-bb3c-0458dce0e726" />
 
 ## About Laravel
 
