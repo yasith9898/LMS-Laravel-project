@@ -6,7 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-user interfaces <img width="1897" height="812" alt="Screenshot 2026-10-23 110116" src="https://github.com/user-attachments/assets/85e60cc5-34d9-453b-bb3c-0458dce0e726" />
+user interfaces <img width="1896" height="814" alt="Screenshot 2026-10-23 110158" src="https://github.com/user-attachments/assets/1cc0f346-8aac-420e-b667-e975cbb968d9" />
+<img width="1911" height="816" alt="Screenshot 2026-10-23 110137" src="https://github.com/user-attachments/assets/3c718804-d341-4b1e-93d7-d67eb1a762ba" />
+<img width="1904" height="810" alt="Screenshot 2026-10-23 110127" src="https://github.com/user-attachments/assets/c0c68c94-4b4e-40e8-9a14-478e3f84a81f" />
+<img width="1897" height="812" alt="Screenshot 2026-10-23 110116" src="https://github.com/user-attachments/assets/69bfd65e-75c1-479f-ba8c-be672213db22" />
+<img width="1904" height="812" alt="Screenshot 2026-10-23 110106" src="https://github.com/user-attachments/assets/4368bf7b-9da6-4897-a2eb-a62a83587a7b" />
+<img width="1890" height="818" alt="Screenshot 2026-10-23 110049" src="https://github.com/user-attachments/assets/2608da75-845b-47b1-8712-1215312893d1" />
+<img width="1878" height="750" alt="Screenshot 2026-10-23 105948" src="https://github.com/user-attachments/assets/9bb02849-3008-4643-917b-3ceda2491645" />
+
 
 ## About Laravel
 
